@@ -1,0 +1,9 @@
+numpy==1.18.1
+gym==0.17.1
+atari-py==0.2.6
+Pillow==7.1.0
+jupyter==1.0.0
+notebook==6.1.5
+opencv-python==4.2.0.34
+setproctitle==1.1.10
+matplotlib==3.2.1

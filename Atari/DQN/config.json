@@ -1,0 +1,15 @@
+{
+  "Default": {},
+
+  "Pong":{"crop_shift": 10,
+         "restrict_actions": 4},
+  "BankHeist":{"restrict_actions": true},
+  "RoadRunner":{
+            "crop_shift": 20,
+            "restrict_actions": true
+        },
+  "Freeway":{
+            "crop_shift": 0
+        }
+}
+
