@@ -8,7 +8,7 @@ This repository contains Atari experiments of our NeurIPS 2021 paper [Robust Dee
 
 In addition we propose *Greedy Worst-Case Reward (GWC)*, an efficient method for estimating agents performance under worst possible sequence of adversarial attacks.
 
-<img src="/demo_gifs/freeway_dqn_nominal.gif" width="260" height="240"/>   <img src="/demo_gifs/freeway_dqn_pgd_1_255.gif" width="260" height="240"/>   <img src="/demo_gifs/freeway_radial_dqn_pgd_3_255.gif" width="260" height="240"/>
+<img src="demo_gifs/freeway_dqn_nominal.gif" width="260" height="240"/>   <img src="demo_gifs/freeway_dqn_pgd_1_255.gif" width="260" height="240"/>   <img src="demo_gifs/freeway_radial_dqn_pgd_3_255.gif" width="260" height="240"/>
 
 Trained DQN agents playing a game of Freeway, where the goal is to cross the road without hitting cars. From left to right
 * DQN under no perturbation, reward 34.0
