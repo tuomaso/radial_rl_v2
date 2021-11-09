@@ -1,7 +1,7 @@
 # Robust Adversarial Loss(RADIAL) - RL
 This repository contains the official code and models used for our NeurIPS 2021 publication [Robust Deep Reinforcement Learning through Adversarial Loss](https://arxiv.org/abs/2008.01976). 
 
-<img src="Overview.png" width="479" height="268"/>
+<img src="overview.png" width="479" height="268"/>
 
 Our RADIAL models(row 2,4) reach good rewards under adversarial attacks to state input, unlike standard models (row 1,3). 
 
