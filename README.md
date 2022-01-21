@@ -7,4 +7,4 @@ Our RADIAL models(row 2,4) reach good rewards under adversarial attacks to state
 
 For code, model and installation instructions see the folders for each set of environments: "Atari", "Procgen" and "Mujoco".
 
-An earlier version of our work is available at [github.com/tuomaso/radial_rl](github.com/tuomaso/radial_rl), which contains an earier implementation of Approach #1 for Atari DQN and A3C.
+An earlier version of our work is available at [https://github.com/tuomaso/radial_rl](https://github.com/tuomaso/radial_rl), which contains an earier implementation of Approach #1 for Atari DQN and A3C.
